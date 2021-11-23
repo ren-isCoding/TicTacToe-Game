@@ -15,6 +15,7 @@ body {
     text-align: center;
     font-size: 40px;
     margin-top: 5%;
+    text-shadow: 4px 4px #b6294c;
 }
 
 .display {
@@ -50,11 +51,11 @@ body {
 }
 
 .playerX {
-    color: #09C372;
+    color: #498afb;
 }
 
 .playerO {
-    color: #498afb;
+    color: #09C372;
 }
 
 .controls {
@@ -66,7 +67,7 @@ body {
 }
 
 #restart {
-    background-color: #dd3860;
+    background-color: #b6294c;
     color: white;
     padding: 8px 16px;
     border-radius: 8px;
