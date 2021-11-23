@@ -1,4 +1,6 @@
 # TicTacToe-Game
+<a href="https://ren-wastaken.github.io/TicTacToe-Game/">Live Preview
+
 This is a JavaScript Project I worked on which was assigned by The Odin Project.
 With this project I learned about Factory Functions and Private Variables.
 
